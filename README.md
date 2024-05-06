@@ -36,8 +36,6 @@
 
 </header>
 
-<!---home section starts--->
-
 <section class="home" id="home">
 
    <div class="content">
@@ -75,8 +73,6 @@
 
    </div>
 </section>
-
-<!---about section ends--->
 
 <!---product section starts--->
 
